@@ -1,0 +1,54 @@
+/* background #F5F5F5 */
+/* background темний #2F303A */
+/* background наша команда #F5F4FA */
+/* основний колір тексту GRAY #757575*/
+/* додатковий колір тексту BLACK #212121 */
+/* BLUE WEB #2196F3 */
+/* WHITE #FFFFFF */
+/* NAV footer rgba(255, 255, 255, 0.6) */
+
+.page {
+    background-color:#FFFFFF;
+    color: #757575;
+}
+
+/* Загальні */
+.list {
+    list-style: none;
+}
+
+/* Логотип */
+.logo {
+    color:#000000;
+}
+
+.logo-name {
+    color:#2196F3;
+}
+
+/*Навігація сайту*/
+.site-nav .link {
+    color:#212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+
+.aut-nav .link {
+    color: #757575;
+}
+
+.aut-nav .link:hover,
+.aut-nav .link:focus{
+    color: #2196F3;
+}
+
+/* Main Секція Hero */
+
+/* Main Секція 2,3 */
+.section-title {
+    color: #212121;
+}
+
